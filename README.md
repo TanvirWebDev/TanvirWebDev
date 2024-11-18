@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tanvir Ahamed</h1>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQGK3v7N8uHZmw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731923079598?e=1737590400&v=beta&t=9T3gPkxxpnr6SqFMD4C-bLnOaXN-duVEN9-18JB6Mwc">
+<h1 align="center">Tanvir Ahamed</h1>
 <h3 align="center">Passionate Web Developer | Clean Code | Web Solutions | Beautiful Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirwebdev" /> </p>
